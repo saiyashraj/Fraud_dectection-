@@ -1,0 +1,29 @@
+# 💳 Fraud Detection Streamlit App
+
+This is an interactive web application built with [Streamlit](https://streamlit.io/) that predicts whether a financial transaction is potentially fraudulent using a trained machine learning model.
+
+The app takes key transaction details (type, amount, sender and receiver balances) as input and returns a prediction based on a logistic regression model trained on historical transaction data.
+
+---
+
+## 🚀 Features
+
+- Simple and intuitive UI for entering transaction data
+- Real-time prediction of fraudulent transactions
+- Uses a full pipeline (preprocessing + logistic regression) for reliable results
+- Model trained with class balancing to handle fraud rarity
+
+---
+
+## 🛠️ Technologies Used
+
+- Python
+- Streamlit
+- Pandas
+- Scikit-learn
+- Joblib
+
+---
+
+## 📦 Files Included
+
