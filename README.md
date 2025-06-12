@@ -30,6 +30,6 @@ This is a Streamlit-based web application that predicts whether a financial tran
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/fraud-detection-streamlit.git
+git clone https://github.com/saiyashraj/fraud-detection-streamlit.git
 cd fraud-detection-streamlit
 
